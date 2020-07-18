@@ -1,0 +1,26 @@
+
+nav {
+  margin-bottom: 3%;
+}
+
+.card {
+  background-color: #DAF7A6;
+}
+
+.img-container {
+    max-width: 30vw;
+    margin: auto;
+    margin-bottom: 2%;
+}
+
+img {
+  width: 100%;
+}
+
+.container-fluid{
+  text-align: center;
+}
+
+input {
+  margin: 0.5%;
+}
